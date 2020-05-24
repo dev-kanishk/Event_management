@@ -1,11 +1,11 @@
 # Event management Simple-Django website
 Website has features like Active Events, Past Events and Create Event with simple register and login.
 
-###Requirement
+### Requirement
 * Django 3.0.5
 * Python 3
 
-###Urls
+### Urls
 * http://127.0.0.1:8000/basic/home/
 * http://127.0.0.1:8000/basic/search_event/
 * http://127.0.0.1:8000/basic/login/
